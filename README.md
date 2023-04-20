@@ -7,7 +7,7 @@
 ### Joe-"Allegheny County Obesity Rates"-https://data.wprdc.org/dataset/allegheny-county-obesity-rates
 ###  -Listed obesity rates within Allegheny County neighborhoods
 ### Jax-"City of Pittsburgh Traffic Counts"-https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
- ### -Listed average vehicle traffic withing Pittsburgh neighborhoods
+ ### -Listed average vehicle traffic within Pittsburgh neighborhoods
   
  ## Which neighborhood is the healthiest?
  ### Our final project looked at which neighborhood in Pittsburgh was the "healthiest" based on lowest obesity rates, highest number of playgrounds, and lowest traffic count.
