@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-## Team Name: Group 39 (Jason Man-jam770@pitt.edu,Joe Paci-jcp110@pitt.edu,Jax Hraber-jdh187@pitt.edu)
+## Team Name: Group 39 (Jason Man: jam770@pitt.edu, Joe Paci: jcp110@pitt.edu, Jax Hraber: jdh187@pitt.edu)
 
 ## Datasets Used:
 ### Jason-"City of Pittsburgh Playgrounds"-https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
